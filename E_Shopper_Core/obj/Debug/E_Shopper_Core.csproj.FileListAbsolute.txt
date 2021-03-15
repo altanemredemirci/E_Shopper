@@ -1,0 +1,24 @@
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csprojAssemblyReference.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.pdb
+D:\repos\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.dll
+D:\repos\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.pdb
+D:\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csproj.CoreCompileInputs.cache
+D:\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.dll
+D:\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.pdb
+D:\repos\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csprojAssemblyReference.cache
+I:\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.dll
+I:\E_Shopper\E_Shopper_Core\bin\Debug\E_Shopper_Core.pdb
+I:\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csprojAssemblyReference.cache
+I:\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.csproj.CoreCompileInputs.cache
+I:\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.dll
+I:\E_Shopper\E_Shopper_Core\obj\Debug\E_Shopper_Core.pdb

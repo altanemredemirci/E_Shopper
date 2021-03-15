@@ -1,0 +1,50 @@
+﻿@model IEnumerable<E_Shopper_Entity.Product>
+  
+<div class="features_items">
+    <!--features_items-->
+    <h2 class="title text-center">Ayın urunleri</h2>
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-4">
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <div class="productinfo text-center">
+                        <img src="~/images/product/@item.Image" alt="" />
+                        @{
+                            string price = item.Price.ToString();
+                        }
+                        @if (price.Length == 4)
+                        {
+                            price = price + "0";
+                        }
+                        else if (price.Length == 2 || price.Length == 3)
+                        {
+                            price = price + ",00";
+                        }
+                       
+                        <h2>₺ @price</h2>
+                        <p>@item.Title</p>
+                        <a href="@Url.Action("AddToCart","Cart",new { id = item.Id, quantity = 1 })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                    </div>
+                    <div class="product-overlay">
+                        <div class="overlay-content">
+                            <h2>₺ @price</h2>
+                            <p>@item.Title</p>
+                            <a href="@Url.Action("AddToCart","Cart",new { id = item.Id, quantity = 1 })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="choose">
+                    <ul class="nav nav-pills nav-justified">
+
+                        <li><a href="/Home/Details/@item.Id"><i class="fa fa-plus-square"></i>Ürün detayı</a></li>
+
+                        <li><a href="#"><i class="fa fa-plus-square"></i>Karşılaştır</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+
+
+</div><!--features_items-->

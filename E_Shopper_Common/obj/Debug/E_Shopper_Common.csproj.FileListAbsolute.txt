@@ -1,0 +1,24 @@
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csprojAssemblyReference.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.pdb
+D:\repos\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.dll
+D:\repos\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.pdb
+D:\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csproj.CoreCompileInputs.cache
+D:\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.dll
+D:\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.pdb
+D:\repos\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csprojAssemblyReference.cache
+I:\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.dll
+I:\E_Shopper\E_Shopper_Common\bin\Debug\E_Shopper_Common.pdb
+I:\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csprojAssemblyReference.cache
+I:\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.csproj.CoreCompileInputs.cache
+I:\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.dll
+I:\E_Shopper\E_Shopper_Common\obj\Debug\E_Shopper_Common.pdb

@@ -1,0 +1,84 @@
+﻿@model E_Shopper_WebUI.Models.ProductViewModel
+@{
+    ViewBag.Title = "ProductList";
+}
+
+
+<div class="features_items">
+    <!--features_items-->
+    <h2 class="title text-center">Ayın urunleri</h2>
+    @foreach (var item in Model.Items)
+    {
+        <div class="col-sm-4">
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <div class="productinfo text-center">
+                        <img src="~/images/product/@item.Image" alt="" />
+                        @{
+                            string price = item.Price.ToString();
+                        }
+                        @if (price.Length == 4)
+                        {
+                            price = price + "0";
+                        }
+                        else if (price.Length == 2 || price.Length == 3)
+                        {
+                            price = price + ",00";
+                        }
+
+                        <h2>₺ @price</h2>
+                        <p>@item.Title</p>
+                        <a href="@Url.Action("AddToCart","Cart",new { id = item.Id, quantity = 1 })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                    </div>
+                    <div class="product-overlay">
+                        <div class="overlay-content">
+                            <h2>₺ @price</h2>
+                            <p>@item.Title</p>
+                            <a href="@Url.Action("AddToCart","Cart",new { id = item.Id, quantity = 1 })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="choose">
+                    <ul class="nav nav-pills nav-justified">
+                        <li><a href="#"><i class="fa fa-plus-square"></i>İsteğe ekle</a></li>
+                        <li><a href="#"><i class="fa fa-plus-square"></i>Karşılaştır</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+
+
+
+</div><!--features_items-->
+@if (Model.Pager.EndPage > 1)
+{
+    <ul class="pagination" style="float:right; bottom:0; ">
+        @if (Model.Pager.CurrentPage > 1)
+        {
+            <li>
+                @Html.ActionLink("İlk", "ProductList", "Home", new { id = ViewBag.BrandId }, null)
+            </li>
+            <li>
+                @Html.ActionLink("Geri", "ProductList", "Home", new { id = ViewBag.BrandId, page = Model.Pager.CurrentPage - 1 }, null)
+            </li>
+        }
+
+        @for (var page = Model.Pager.StartPage; page <= Model.Pager.EndPage; page++)
+        {
+            <li class="@(page == Model.Pager.CurrentPage ? "active" : "")">
+                @Html.ActionLink(page.ToString(), "ProductList", "Home", new { id = ViewBag.BrandId, page = page }, null)
+            </li>
+        }
+
+        @if (Model.Pager.CurrentPage < Model.Pager.TotalPages)
+        {
+            <li>
+                @Html.ActionLink("Sonraki", "ProductList", "Home", new { id = ViewBag.BrandId, page = Model.Pager.CurrentPage + 1 }, null)
+            </li>
+            <li>
+                @Html.ActionLink("Son", "ProductList", "Home", new { id = ViewBag.BrandId, page = Model.Pager.TotalPages }, null)
+            </li>
+        }
+    </ul>
+}

@@ -1,0 +1,37 @@
+﻿@model IEnumerable<E_Shopper_Entity.Menu>
+@{
+    var selectedCategory = Url.RequestContext.RouteData.Values["id"]; // Seçilen categoryinin id sini route'da idsini alıyoruz.
+}
+<ul class="sidebar-menu" data-widget="tree">
+    <li class="header">YÖNETİM PANELİ</li>
+    @foreach (var item in Model)
+    {
+        if (selectedCategory != null)
+        {
+            if (item.Id == int.Parse(selectedCategory.ToString()))
+            {
+                <li class="active">
+                    <a href="/@item.Url">
+                        <i class="fa fa-th-large"></i> <span>@item.Title</span>
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li>
+                    <a href="/@item.Url">
+                        <i class="fa fa-th-large"></i> <span>@item.Title</span>
+                    </a>
+                </li>
+            }
+        }
+        else
+        {
+            <li>
+                <a href="/@item.Url">
+                    <i class="fa fa-th-large"></i> <span>@item.Title</span>
+                </a>
+            </li>
+        }
+    }
+</ul>

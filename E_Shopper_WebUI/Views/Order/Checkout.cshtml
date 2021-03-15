@@ -1,0 +1,241 @@
+﻿@using E_Shopper_WebUI.Identity
+@using E_Shopper_Entity
+@model E_Shopper_Entity.Cart
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<style>
+    #shopper-informations {
+        display: none;
+    }
+
+    #newaddress {
+        display: none;
+    }
+
+    .form-one input {
+        background: #F0F0E9;
+        border: 0 none;
+        margin-bottom: 10px;
+        padding: 10px;
+        width: 100%;
+        font-weight: 300;
+    }
+
+    .form-two input {
+        background: #F0F0E9;
+        border: 0 none;
+        margin-bottom: 10px;
+        padding: 10px;
+        width: 100%;
+        font-weight: 300;
+        float: right;
+    }
+</style>
+<script>
+
+</script>
+<section id="cart_items">
+    <div class="container">
+        <div class="breadcrumbs">
+            <ol class="breadcrumb">
+                <li><a href="#">Alışveriş</a></li>
+                <li class="active">Sipariş</li>
+            </ol>
+        </div><!--/breadcrums-->
+
+        <div class="review-payment">
+            <h2>Sepet & Ödeme</h2>
+        </div>
+        <div class="table-responsive cart_info">
+            <table class="table table-condensed">
+                <thead>
+                    <tr class="cart_menu">
+                        <td class="image">Ürün</td>
+                        <td class="description"></td>
+                        <td class="price">Fiyat</td>
+                        <td class="quantity">Adet</td>
+                        <td class="total">Tutar</td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model.CartLines)
+                    {
+                        <tr>
+                            <td class="cart_product">
+                                <a href=""><img src="~/images/product/@item.Product.Image" alt="" width="110"></a>
+                            </td>
+                            <td class="cart_description">
+                                <h4><a href="">@item.Product.Title</a></h4>
+                            </td>
+                            <td class="cart_price">
+                                <p class="@item.Product.Id" id="price" style="margin:0">@item.Product.Price.ToString("c")</p>
+                            </td>
+                            <td class="cart_quantity">
+                                <div class="cart_quantity_button">
+                                    <input type="button" onclick="azalt(@item.Product.Id)" value="-" class="cart_quantity_up" style="float:left" />
+                                    @if (item.Quantity > 0)
+                                    {
+                                        <input class="cart_quantity_input" type="text" id="@item.Product.Id" value=@item.Quantity autocomplete="off" size="2" style="height:2.6rem">
+                                    }
+                                    else
+                                    {
+                                        <input class="cart_quantity_input" type="text" id="@item.Product.Id" value="1" autocomplete="off" size="2" style="height:2.6rem">
+                                    }
+
+                                    <input type="button" onclick="arttir(@item.Product.Id)" value="+" class="cart_quantity_up" />
+                                </div>
+                            </td>
+                            <td class="cart_total">
+                                <p class="cart_total_price" id="total+@item.Product.Id" style="margin:0">@((item.Product.Price * item.Quantity).ToString("c"))</p>
+                            </td>
+                            <td class="cart_delete">
+                                <a class="cart_quantity_delete" href="/Cart/RemoveFromCart/@item.Product.Id"><i class="fa fa-times"></i></a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+
+
+
+        @if (!Request.IsAuthenticated)
+        {
+            <div class="step-one">
+                <h2 class="heading">1. Adım</h2>
+            </div>
+            <div class="checkout-options">
+                <h3>Yeni Kullanıcı</h3>
+                <p>Sipariş Seçenekleri</p>
+                <ul class="nav">
+                    <li>
+                        <label><input type="radio" name="r1" onclick="window.location.href = '/Account/Register';"> Kayıt Ol</label>
+                    </li>
+                    <li>
+                        <label><input type="radio" name="r1" onclick="Goster()"> Misafir Olarak Devam Et</label>
+                    </li>
+                </ul>
+            </div><!--/checkout-options-->
+
+            <div class="register-req">
+                <p>Sipariş geçmişinize kolayca erişmek için lütfen Kaydol veya Giriş'i kullanın veya Misafir olarak siparişi tamamlayabilirsiniz</p>
+            </div><!--/register-req-->
+
+            <div class="shopper-informations" id="shopper-informations">
+                <div class="row">
+                    <div class="col-sm-6 clearfix">
+                        <div class="bill-to">
+                            <p>Teslimat Bilgileri</p>
+
+                            @using (Html.BeginForm("AddAddress", "Account"))
+                            {<div class="form-one">
+                                    @{Address adres = new Address();}
+                                    @Html.EditorFor(m => adres.AdresBasligi, new { htmlAttributes = new { placeholder = "Adres Başlığı" } })
+                                    @Html.EditorFor(m => adres.Ad, new { htmlAttributes = new { placeholder = "Ad" } })
+                                    @Html.EditorFor(m => adres.Soyad, new { htmlAttributes = new { placeholder = "Soyad" } })
+                                    @Html.EditorFor(m => adres.Email, new { htmlAttributes = new { placeholder = "Email" } })
+                                    @Html.EditorFor(m => adres.TelefonNumarasi, new { htmlAttributes = new { placeholder = "Telefon Numarası" } })
+                                </div>
+                                <div class="form-two">
+                                    @Html.EditorFor(m => adres.Il, new { htmlAttributes = new { placeholder = "İl" } })
+                                    @Html.EditorFor(m => adres.Ilce, new { htmlAttributes = new { placeholder = "İlçe" } })
+                                    @Html.EditorFor(m => adres.Mahalle, new { htmlAttributes = new { placeholder = "Mahalle" } })
+                                    @Html.EditorFor(m => adres.Adres, new { htmlAttributes = new { placeholder = "Adres" } })
+                                    @Html.EditorFor(m => adres.PostaKodu, new { htmlAttributes = new { placeholder = "Posta Kodu" } })
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="order-message">
+                            <p>Shipping Order</p>
+                            <textarea name="message" placeholder="Siparişinizle ilgili notlar, Teslimat için Özel Notlar" rows="16"></textarea>
+                            <label><input type="checkbox"> Faturayı teslimat adresine gönderin</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="register-req">
+                    <p>Ödeme seçeneğinizi seçebilir ve ödeme bilgilerinizi kaydederek sonraki siparişlerinizde kullanabilirsiniz</p>
+                </div><!--/register-req-->
+                <div class="payment-options">
+                    <span>
+                        <label><input type="radio" name="payment_type"> Havale </label>
+                    </span>
+                    <span>
+                        <label><input type="radio" name="payment_type"> Kredi Kartı </label>
+                    </span>
+                    <span>
+                        <label><input type="radio" name="payment_type"> Paypal</label>
+                    </span>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="row" style="width:100%; margin:auto">
+                @{User user = (User)TempData["login"];
+                    <label><input type="radio" name="r2" onclick="NewAddress()"> Yeni Adres Ekle</label>
+                    if (user.Addresses.Count > 0)
+                    {
+                        @Html.DropDownList("Adres", ViewBag.Address as SelectList, "Adres Seçiniz", new { @id = "adres" })
+                    }
+
+                }
+            </div>
+            <div class="row" id="newaddress">
+                <div class="col-sm-6 clearfix">
+                    <div class="bill-to">
+                        <p>Teslimat Bilgileri</p>
+
+                        @using (Html.BeginForm("AddAddress", "Account"))
+                        {<div class="form-one">
+                                @{Address adres = new Address();}
+                                @Html.EditorFor(m => adres.AdresBasligi, new { htmlAttributes = new { placeholder = "Adres Başlığı" } })
+                                @Html.EditorFor(m => adres.TelefonNumarasi, new { htmlAttributes = new { placeholder = "Telefon Numarası" } })
+                                @Html.EditorFor(m => adres.Il, new { htmlAttributes = new { placeholder = "İl" } })
+                                @Html.EditorFor(m => adres.Ilce, new { htmlAttributes = new { placeholder = "İlçe" } })
+                            </div>
+                            <div class="form-two">
+                                @Html.EditorFor(m => adres.Mahalle, new { htmlAttributes = new { placeholder = "Mahalle" } })
+                                @Html.EditorFor(m => adres.Adres, new { htmlAttributes = new { placeholder = "Adres" } })
+                                @Html.EditorFor(m => adres.PostaKodu, new { htmlAttributes = new { placeholder = "Posta Kodu" } })
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="order-message">
+                        <p>Shipping Order</p>
+                        <textarea name="message" placeholder="Siparişinizle ilgili notlar, Teslimat için Özel Notlar" rows="16"></textarea>
+                        <label><input type="checkbox"> Faturayı teslimat adresine gönderin</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="register-req">
+                <p>Ödeme seçeneğinizi seçebilir ve ödeme bilgilerinizi kaydederek sonraki siparişlerinizde kullanabilirsiniz</p>
+            </div><!--/register-req-->
+            <div class="payment-options">
+                <span>
+                    <label><input type="radio" name="payment_type"> Havale </label>
+                </span>
+                <span>
+                    <label><input type="radio" name="payment_type"> Kredi Kartı </label>
+                </span>
+                <span>
+                    <label><input type="radio" name="payment_type"> Paypal</label>
+                </span>
+            </div>
+        }
+
+    </div>
+</section> <!--/#cart_items-->
+
+
+
+<script src="~/Scripts/js/cart.js"></script>

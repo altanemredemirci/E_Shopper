@@ -1,0 +1,20 @@
+﻿
+<div class="col-md-8 clearfix">
+    <div class="shop-menu clearfix pull-right">
+        <ul class="nav navbar-nav">
+            @if (Request.IsAuthenticated)
+            {
+                <li><a href="/Account"><i class="fa fa-user"></i> @User.Identity.Name</a></li>
+                @Html.Action("Summary", "Cart")
+                <li><a href="/Account/Logout"><i class="fa fa-power-off"></i> Çıkış</a></li>
+            }
+            else
+            {
+                @Html.Action("Summary", "Cart")
+               
+                <li><a href="/Account/Login"><i class="fa fa-lock"></i> Giriş</a></li>
+                <li><a href="/Account/Register"><i class="fa fa-user" aria-hidden="true"></i> Kayıt</a></li>
+            }
+        </ul>
+    </div>
+</div>

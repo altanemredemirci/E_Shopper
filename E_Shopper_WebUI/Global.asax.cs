@@ -1,0 +1,26 @@
+using E_Shopper_Common;
+using E_Shopper_DAL.EntityFramework;
+using E_Shopper_WebUI.Identity;
+using E_Shopper_WebUI.Init;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Routing;
+
+namespace E_Shopper_WebUI
+{
+    public class MvcApplication : System.Web.HttpApplication
+    {
+        protected void Application_Start()
+        {
+            AreaRegistration.RegisterAllAreas();
+            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            Database.SetInitializer(new MyInitializer());
+            Database.SetInitializer(new IdentityInitilaizer());
+            App.Common = new WebCommon();
+        }
+    }
+}

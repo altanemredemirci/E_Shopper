@@ -1,0 +1,48 @@
+﻿@model IEnumerable<E_Shopper_Entity.Category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Kategoriler</h2>
+
+<p>
+   @Bootstrap.LinkButton("/Category/Create", "primary", "btn-sm", string.Empty, "plus", " Yeni Kategori")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brands)
+        </th>
+        <th width="100"></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Brands.Count)
+    </td>
+    <td>
+        @Bootstrap.LinkButton("/Category/Edit/" + item.Id, "warning", "btn-xs", "Düzenle", "edit", string.Empty)
+
+        @Bootstrap.LinkButton("/Category/Details/" + item.Id, "info", "btn-xs", "Detaylar", "search", string.Empty)
+
+        @Bootstrap.LinkButton("/Category/Delete/" + item.Id, "danger", "btn-xs", "Kaldır", "trash", string.Empty)
+    </td>
+</tr>
+}
+
+</table>

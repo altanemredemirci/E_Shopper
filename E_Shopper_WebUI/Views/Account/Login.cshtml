@@ -1,0 +1,61 @@
+﻿@model E_Shopper_BLL.Models.LoginViewModel
+
+@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<style>
+    #login .container #login-row #login-column #login-box {
+        margin-top: 60px;
+    }
+
+        #login .container #login-row #login-column #login-box #login-form {
+            padding: 20px;
+        }
+
+            #login .container #login-row #login-column #login-box #login-form #register-link {
+                margin-top: -85px;
+            }
+</style>
+
+
+<div id="login">
+    <div class="container">
+        <div id="login-row" class="row justify-content-center align-items-center">
+            <div id="login-column" class="col-md-6 col-md-offset-3">
+                <div id="login-box" class="col-md-12">
+                    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = TempData["returnUrl"] }, FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true)
+
+                        <h3 class="text-center text-info">GİRİŞ</h3>
+                        <div class="form-group">
+                            <label for="username" class="text-info">Kullanıcı Adı:</label><br>
+                            @Html.EditorFor(model => model.Username, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Username, "", new { @class = "control-label col-md-12 text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="password" class="text-info">Şifre:</label><br>
+                            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "control-label col-md-12 text-danger" })
+                        </div>
+                        <div class="form-group col-md-6" style="padding-left:0">
+                            <label for="remember-me" class="text-info">
+                                <span>Beni Hatırla</span> <span>
+                                @Html.CheckBoxFor(model=> model.RememberMe, new { htmlAttributes = new {@class="form-control" } })
+                                </span>
+                            </label><br>
+                            <input type="submit" name="submit" class="btn btn-warning" value="GİRİŞ">
+                        </div>
+                        <div id="register-link" class="text-right">
+                            <a href="/Account/Register" class="text-info">Kayıt Ol</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

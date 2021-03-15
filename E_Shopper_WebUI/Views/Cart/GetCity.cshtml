@@ -1,0 +1,114 @@
+﻿@model E_Shopper_Entity.City
+<div class="col-sm-6">
+    <div class="chose_area">
+        <ul class="user_option">
+            <li>
+                <input type="checkbox">
+                <label>Kupon Kodunu Kullan</label>
+            </li>
+            <li>
+                <input type="checkbox">
+                <label>Hediye çekini kullanın</label>
+            </li>
+            <li>
+                <input type="checkbox">
+                <label>Nakliye Tahmini &amp;  Vergileri</label>
+            </li>
+        </ul>
+        <ul class="user_info">
+
+            <li class="single_field">
+                <label>İl:</label>
+                <select name="iller" id="il">
+                    <option>İl Seçiniz</option>
+                </select>
+            </li>
+            <li class="single_field">
+                <label>İlçe:</label>
+                <select name="ilceler" id="ilce" disabled>
+                    <option>Bir İl Seçiniz</option>
+                </select>
+            </li>
+            <li class="single_field zip-field">
+                <label>Teklif:</label>
+                <input type="text">
+            </li>
+        </ul>
+        <a class="btn btn-default update" id="getQuotes" href="">Teklif Al</a>
+        <a class="btn btn-default check_out" href="">Devam Et</a>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+    $(function () {
+        //aynı ajaxmı kullanıcağımdan dolayı ajaxsetup oluştuyorum
+        $.ajaxSetup({
+            type: "post",
+            url: "/Cart/IlIlce",//controlerımda gidicek olan yerim
+            dataType: "json"
+        });
+        $.extend({
+            ilGetir: function () {
+                $.ajax({
+                    //datamızı gönderiyoruz
+                    data: { "tip": "ilGetir" },
+                    success: function (sonuc) {
+                        //gelen sonucumuz kontrol ediyoruz ona göre selectimze append işlemi gerçekleştiyoruz
+                        if (sonuc.ok) {
+
+                            $.each(sonuc.text, function (index, item) {
+                                var optionhtml = '<option value="' + item.Value + '">' + item.Text + '</option>';
+                                $("#il").append(optionhtml);
+
+                            });
+
+                        } else {
+                            $.each(sonuc.text, function (index, item) {
+                                var optionhtml = '<option value="' + item.Value + '">' + item.Text + '</option>';
+                                $("#il").append(optionhtml);
+
+                            });
+
+                        }
+                    }
+                });
+            },
+            ilceGetir: function (ilID) {
+
+                $.ajax({
+                    //ekstra olarak functionumaza gelen ilID mizi gönderiyoruz
+                    data: { "ilID": ilID, "tip": "ilceGetir" },
+                    success: function (sonuc) {
+                        //bir önceki kayıtları temizliyorum
+                        $("#ilce option").remove();
+                        if (sonuc.ok) {
+                            //disabled true yapıyorum
+                            $("#ilce").prop("disabled", false);
+                            $.each(sonuc.text, function (index, item) {
+                                var optionhtml = '<option value="' + item.Value + '">' + item.Text + '</option>';
+                                $("#ilce").append(optionhtml);
+                            });
+
+                        } else {
+                            $.each(sonuc.text, function (index, item) {
+                                var optionhtml = '<option value="' + item.Value + '">' + item.Text + '</option>';
+                                $("#ilce").append(optionhtml);
+
+                            });
+                        }
+                    }
+                });
+            }
+        });
+        //ilgetirimizi çalıştıyoruz
+        $.ilGetir();
+        //il selectimizde değişiklik olduğunda çalışacak func
+        $("#il").on("change", function () {
+            //seçili olan id alıyoruz
+            var ilID = $(this).val();
+            //seçili olan idmizi ilceGetir'imze gönderiyoruz
+            $.ilceGetir(ilID);
+        });
+    });
+</script>

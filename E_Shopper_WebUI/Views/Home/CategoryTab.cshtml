@@ -1,0 +1,57 @@
+﻿@using E_Shopper_Entity
+@model List<E_Shopper_Entity.Product>
+
+<div class="recommended_items">
+    <!--recommended_items-->
+    <h2 class="title text-center">ÖNERİLEN ÜRÜNLER</h2>
+
+    <div id="recommended-item-carousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="item active">
+                @foreach (Product item in Model.Take(3).ToList())
+                {
+                    <div class="col-sm-4">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="~/images/product/@item.Image" alt="" />
+                                    <h2>₺@item.Price</h2>
+                                    <p>@item.Title</p>
+                                    <a href="@Url.Action("AddToCart","Cart",new { id = item.Id, quantity = 1 })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                }
+            </div>
+            <div class="item">
+                @foreach (Product item in Model.Skip(3).Take(3).ToList())
+                {
+                    <div class="col-sm-4">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="~/images/product/@item.Image" alt="" />
+                                    <h2>₺@item.Price</h2>
+                                    <p>@item.Title</p>
+                                    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Sepete Ekle</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+            </div>
+        </div>
+        <a class="left recommended-item-control" href="#recommended-item-carousel" data-slide="prev">
+            <i class="fa fa-angle-left"></i>
+        </a>
+        <a class="right recommended-item-control" href="#recommended-item-carousel" data-slide="next">
+            <i class="fa fa-angle-right"></i>
+        </a>
+    </div>
+</div>

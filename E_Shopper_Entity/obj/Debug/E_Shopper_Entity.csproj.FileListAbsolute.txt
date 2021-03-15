@@ -1,0 +1,124 @@
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Owin.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Owin.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csprojAssemblyReference.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CopyComplete
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.pdb
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll.config
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.pdb
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Owin.dll
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\repos\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.xml
+D:\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csprojAssemblyReference.cache
+D:\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CoreCompileInputs.cache
+D:\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CopyComplete
+D:\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.dll
+D:\repos\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.pdb
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll.config
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\E_Shopper_Entity.pdb
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Owin.dll
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\EntityFramework.SqlServer.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+I:\E_Shopper\E_Shopper_Entity\bin\Debug\Newtonsoft.Json.xml
+I:\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csprojAssemblyReference.cache
+I:\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CoreCompileInputs.cache
+I:\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.csproj.CopyComplete
+I:\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.dll
+I:\E_Shopper\E_Shopper_Entity\obj\Debug\E_Shopper_Entity.pdb

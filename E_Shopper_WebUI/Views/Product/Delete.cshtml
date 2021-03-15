@@ -1,0 +1,74 @@
+﻿@model E_Shopper_Entity.Product
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Bu ürünü silmek istediğinize emin misiniz?</h3>
+<div>
+    <h4>Product</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Condition)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDraft)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th></th>
+        </tr>
+        <tr>
+            <td>
+                <img src="~/images/product/@Model.Image" width="70" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.InStock)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Condition)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.IsDraft)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Quantity)
+            </td>
+        </tr>        
+
+    </table>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Sil" class="btn btn-danger" />
+            @Html.ActionLink("Ürün Liste", "Index", null, new { @class = "btn btn-warning" })
+        </div>
+    }
+</div>

@@ -1,0 +1,8 @@
+﻿@using E_Shopper_Entity
+@model IEnumerable<E_Shopper_Entity.Product>
+<div class="col-sm-9 padding-right">
+   @Html.Partial("_PartialProduct",Model)
+
+   @Html.Action("CategoryTab", "Home")
+ 
+</div>

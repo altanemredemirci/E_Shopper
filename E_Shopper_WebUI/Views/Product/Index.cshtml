@@ -1,0 +1,66 @@
+﻿@model IEnumerable<E_Shopper_Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Ürünler</h2>
+
+<p>
+    @Html.ActionLink("Yeni Ürün", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Image)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InStock)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsDraft)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        <img src="~/images/product/@item.Image" width="70" />
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Price)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.InStock)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.IsDraft)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Quantity)
+    </td>
+    <td>
+        @Bootstrap.LinkButton("/Product/Edit/" + item.Id, "warning", "btn-xs", "Düzenle", "edit", string.Empty)
+
+        @Bootstrap.LinkButton("/Product/Details/" + item.Id, "info", "btn-xs", "Detaylar", "search", string.Empty)
+
+        @Bootstrap.LinkButton("/Product/Delete/" + item.Id, "danger", "btn-xs", "Kaldır", "trash", string.Empty)
+    </td>
+</tr>
+}
+
+</table>

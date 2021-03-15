@@ -1,0 +1,87 @@
+﻿@using E_Shopper_Entity
+@model Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout= "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+
+@Html.Partial("_PartialCategories")
+<div class="col-sm-9 padding-right">
+    <div class="product-details">
+        <!--product-details-->
+        <div class="col-sm-5">
+            <div class="view-product">
+                <img src="~/images/product/@Model.Image" alt="" style="object-fit:cover"/>
+            </div>
+            <div id="similar-product" class="carousel slide" data-ride="carousel">
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <a href=""><img src="~/images/product-details/similar1.jpg" alt=""></a>
+                        <a href=""><img src="~/images/product-details/similar2.jpg" alt=""></a>
+                        <a href=""><img src="~/images/product-details/similar3.jpg" alt=""></a>
+                    </div>
+                    <div class="item">
+                        <a href=""><img src="~/images/product-details/similar1.jpg" alt=""></a>
+                        <a href=""><img src="~/images/product-details/similar2.jpg" alt=""></a>
+                        <a href=""><img src="~/images/product-details/similar3.jpg" alt=""></a>
+                    </div>
+                    <div class="item">
+                        <a href=""><img src="~/images/product-details/similar1.jpg" alt=""></a>
+                        <a href=""><img src="~/images/product-details/similar2.jpg" alt=""></a>
+                        <a href=""><img src="~/images/product-details/similar3.jpg" alt=""></a>
+                    </div>
+
+                </div>
+
+                <!-- Controls -->
+                <a class="left item-control" href="#similar-product" data-slide="prev">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                <a class="right item-control" href="#similar-product" data-slide="next">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+
+        </div>
+        <div class="col-sm-7">
+            <div class="product-information">
+                <!--/product-information-->
+                <img src="images/product-details/new.jpg" class="newarrival" alt="" />
+                <h2>@Model.Title</h2>
+
+                <img src="~/images/product-details/rating.png" alt="" />
+                <span>
+                    @using (Html.BeginForm("AddToCart", "Cart", new { id = Model.Id }))
+                    {
+                        <span>TL ₺@Model.Price </span>
+                        <label>Adet:</label>
+                        <input type="text" value="1" name="quantity" />
+                        <button type="submit" class="btn btn-fefault cart"><i class="fa fa-shopping-cart"></i> Sepete Ekle</button>
+                    }
+                </span>
+                @if (Model.InStock)
+                {
+                    <p><b>Stok Durumu:</b> Var</p>
+                }
+                else
+                {
+                    <p><b>Stok Durumu:</b> Yok</p>
+                }
+
+                <p><b>Cinsiyet:</b> @Model.Type.ToString()</p>
+                <p><b>Brand:</b> @Model.Brand.Name</p>
+                <a href=""><img src="~/images/product-details/share.png" class="share img-responsive" alt="" /></a>
+            </div><!--/product-information-->
+        </div>
+    </div><!--/product-details-->
+
+   
+
+    @Html.Action("CategoryTab", "Home")
+
+</div>
+

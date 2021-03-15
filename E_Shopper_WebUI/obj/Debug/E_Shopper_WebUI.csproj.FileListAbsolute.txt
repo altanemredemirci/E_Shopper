@@ -1,0 +1,432 @@
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.rsp
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.rsp
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Console.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.rsp
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.pdb
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll.config
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Owin.dll
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.xml
+C:\Users\ALTAN EMRE\source\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.rsp
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.rsp
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.AppContext.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Console.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Globalization.Calendars.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Http.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Sockets.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.ValueTuple.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.rsp
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Owin.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.pdb
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll.config
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csprojAssemblyReference.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CoreCompileInputs.cache
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CopyComplete
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.dll
+D:\AltanEmre\DersNotlari\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.pdb
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.pdb
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.rsp
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.rsp
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.AppContext.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Console.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Globalization.Calendars.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Http.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Sockets.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.ValueTuple.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.rsp
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Owin.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.pdb
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.pdb
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.pdb
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.pdb
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.pdb
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll.config
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csprojAssemblyReference.cache
+D:\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CoreCompileInputs.cache
+D:\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CopyComplete
+D:\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.dll
+D:\repos\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.pdb
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll.config
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_WebUI.pdb
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.exe.config
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\csc.rsp
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.exe.config
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\csi.rsp
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.AppContext.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Collections.Immutable.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Console.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Globalization.Calendars.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Http.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Net.Sockets.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Reflection.Metadata.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.ValueTuple.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.exe.config
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\vbc.rsp
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe
+I:\E_Shopper\E_Shopper_WebUI\bin\roslyn\VBCSCompiler.exe.config
+I:\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Web.Infrastructure.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\Owin.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.dll
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.pdb
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_BLL.dll.config
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Common.pdb
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Core.pdb
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.pdb
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_DAL.dll.config
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.pdb
+I:\E_Shopper\E_Shopper_WebUI\bin\E_Shopper_Entity.dll.config
+I:\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\EntityFramework.SqlServer.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Newtonsoft.Json.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Razor.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Deployment.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Webpages.Razor.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Helpers.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\System.Web.Mvc.xml
+I:\E_Shopper\E_Shopper_WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csprojAssemblyReference.cache
+I:\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CoreCompileInputs.cache
+I:\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.csproj.CopyComplete
+I:\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.dll
+I:\E_Shopper\E_Shopper_WebUI\obj\Debug\E_Shopper_WebUI.pdb
